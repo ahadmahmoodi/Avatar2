@@ -9,6 +9,7 @@ public class Page2 {
 
         System.out.println("I just made some conflict");
         System.out.println("Lets see how it is work");
+        System.out.println("It is ok");
 
     }
 }
